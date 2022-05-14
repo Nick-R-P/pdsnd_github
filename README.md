@@ -7,7 +7,7 @@ May 14th 2022
 Bikeshare
 
 ### Description
-Bikeshare breaksdown and displays statistic of the data collected about ride information in the three city based upon the users inputs.
+Bikeshare breaksdown and displays statistic of the data collected about ride information in the three city based upon the user's selection of dates.
 
 ### Files used
 Include the files used
